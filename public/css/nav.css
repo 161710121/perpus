@@ -1,0 +1,18 @@
+.hua {
+	font-family: "Poppins", sans-serif;
+	background-color: #4c3c3c;
+	-webkit-transition: background 0.25s ease;
+	padding: 0 !important;
+	position: fixed;
+	top:0;
+	right: 0;
+	left: 0;
+	z-index: 1030;
+	flex-direction: row !important;
+	display: flex !important;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	flex: 0 0 100%;
+	max-width: 100%;
+}
